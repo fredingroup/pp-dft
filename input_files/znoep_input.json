@@ -1,0 +1,38 @@
+{
+	"molecule": "Znoep",
+
+	"files": [
+		{
+			"name": "S0",
+			"singlet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/znoep/chloroform/td/znoep_td_s_transitions.txt",
+			"triplet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/znoep/chloroform/td/znoep_td_s_transitions.txt",
+			"nstates": 30,
+			"states": [
+				{
+					"name": "S0",
+					"n": 0
+				},
+				{
+					"name": "S1",
+					"n": 1
+				},
+				{
+					"name": "S2",
+					"n": 2
+				},
+				{
+					"name": "S3",
+					"n": 3
+				},
+				{
+					"name": "S4",
+					"n": 4
+				},
+				{
+					"name": "S18",
+					"n": 18
+				}
+			]
+		}
+	]
+}

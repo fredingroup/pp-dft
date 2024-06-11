@@ -1,0 +1,19 @@
+{
+	"molecule": "Bodipy",
+
+	"files": [
+		{
+			"name": "s0_opt",
+			"singlet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/bodipy/s0/td_s/bodipy_td_transitions.txt",
+			"triplet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/bodipy/s0/td_t/bodipy_td_st_transitions.txt",
+			"nstates": 30,
+			"states": [
+				{
+					"name": "s0",
+					"n": 0
+				}
+			]
+	
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"molecule": "Rubipy",
+
+	"files": [
+		{
+			"name": "s0",
+			"singlet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/rubipy/s0/td_s/rubipy_td_transitions.txt",
+			"triplet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/rubipy/s0/td_t/rubipy_td_transitions.txt",
+			"nstates": 30,
+			"states": [
+				{
+					"name": "s0",
+					"n": 0
+				},
+				{
+					"name": "s1",
+					"n": 1
+				},
+				{
+					"name": "s2",
+					"n": 2
+				},
+				{
+					"name": "s3",
+					"n": 3
+				},
+				{
+					"name": "s5",
+					"n": 5
+				}
+			]
+		},
+		{	"name": "t1(MC?)",
+			"singlet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/rubipy/mc/td_s/rubipy_td_s_transitions.txt",
+			"triplet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/rubipy/mc/td_t/rubipy_td_t_transitions.txt",
+			"nstates": 30,
+			"states": [
+				{
+					"name": "t1",
+					"n": 0
+				}
+			]
+		},
+		{
+			"name": "t1(MLCT?)",
+			"singlet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/rubipy/t1/td_s/rubipy_td_ts_transitions.txt",
+			"triplet": "C:/Users/gabri/LU Student Dropbox/Gabe Masso/Fredin Group/Gabe/pump_probe_TDDFT/solution_phase/rubipy/t1/td_t/rubipy_td_tt_transitions.txt",
+			"nstates": 30,
+			"states": [
+				{
+					"name": "t1",
+					"n": 0
+				}
+			]
+		}
+	]
+}
