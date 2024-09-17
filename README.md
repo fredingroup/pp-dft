@@ -25,3 +25,27 @@
 # To-Do - Larger Scope
 - implement jablonski capabilities - with molecule selector
 
+# Notes
+- I'll just make my thing call multiwfn...
+
+
+- multiwfn menu:
+- - filename.fchk
+- - 18
+- - 5
+- - filename.log
+- - 2
+- - 0
+- - q
+
+
+- in multiwfn_src_linux/multiwfn.f90 
+- - line 284 print menu (choose 18)
+- - line 508 call excittrans_main
+
+- in multiwfn_src_linux/excittrans.f90
+- - line 69 print menu (choose 5)
+- - line 3600 calculate electric dipole moments
+
+- in multiwfn_src_linux/fileIO.f90
+- - line 400 read fchk
